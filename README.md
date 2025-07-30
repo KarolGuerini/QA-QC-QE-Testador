@@ -1,7 +1,7 @@
 
 ## 📄 **O que é QA, QC, QE, Testador de Software e Testes de Software?**
 
-Na área de qualidade de software, é comum ver muitos termos diferentes: QA, QC, QE, testador, testes... Mas o que cada um realmente significa? Vamos descomplicar:
+Na área de qualidade de software, é comum ver muitos termos diferentes: QA, QC, QE, testador, testes... Mas o que cada um realmente significa?
 
 ---
 
