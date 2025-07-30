@@ -1,0 +1,1 @@
+# QA-QC-QE-Testador
