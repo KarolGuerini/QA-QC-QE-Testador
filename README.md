@@ -1,4 +1,3 @@
----
 
 ## 📄 **O que é QA, QC, QE, Testador de Software e Testes de Software?**
 
