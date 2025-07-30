@@ -13,7 +13,6 @@ O foco aqui é **prevenir problemas**. O profissional de QA analisa o processo d
 * 🧠 Ajuda a definir estratégias de teste
 * 🛠 Pode ou não automatizar testes
 
-> **Pense no QA como alguém que cuida da saúde do processo.**
 
 ---
 
@@ -25,7 +24,6 @@ Aqui o foco é **detectar problemas**. O QC valida se o que foi entregue está d
 * 📋 Garante que o produto está “ok” para o usuário final
 * ✅ O teste em si faz parte do QC
 
-> **Se o QA previne, o QC inspeciona.**
 
 ---
 
@@ -37,7 +35,6 @@ Aqui o foco é **detectar problemas**. O QC valida se o que foi entregue está d
 * 🧩 Participa de decisões técnicas junto com devs
 * 🚀 Ajuda a melhorar performance e confiabilidade de sistemas
 
-> **O QE foca em engenharia de qualidade, indo além da validação.**
 
 ---
 
@@ -49,7 +46,6 @@ Aqui o foco é **detectar problemas**. O QC valida se o que foi entregue está d
 * 📝 Reporta comportamentos inesperados
 * 🧭 Pode atuar com testes exploratórios
 
-> **O testador é a mão na massa da verificação funcional.**
 
 ---
 
